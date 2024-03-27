@@ -20,7 +20,7 @@ Nessus is crucial for companies today, serving as a powerful tool in identifying
 - <b>Kali Linux 2023.1</b>
 - <b>VMware Workstation 17 Pro</b> 
 
-<h2>Infection simulation walk-through:</h2>
+<h2>Lab simulation walk-through:</h2>
 
 <p align="left">
   
